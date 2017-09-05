@@ -1,0 +1,18 @@
+* {
+	font-family: verdana;
+}
+
+html, body {
+	height:100%;
+}
+
+body {
+	margin: 0;
+	display: flex;
+
+	/*Centreing the sketch horizontally*/
+	justify-content: center;
+
+	/*Centreing the sketch vertically*/
+	align-items: center;
+}
